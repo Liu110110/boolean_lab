@@ -3,8 +3,8 @@
 
 def greater_than_one():
     # this function should return True if the input is greater than 1 (should work for floats and int)
-    input_number = input("Pick a number, any number! ")
-    return #<
+    input_number = input("3")
+    return True#<
 
 
 def you_are_number_one_alphabetically():
@@ -23,8 +23,8 @@ def are_you_voting_age():
 
 def were_not_so_different_you_and_i():
     # this function should return true if the two inputs are the same
-    input_1 = input("Enter a value: ")
-    input_2 = input("Enter another value: ")
+    input_1 = input("Enter a value:5 ")
+    input_2 = input("Enter another value: 6")
     return
 
 
